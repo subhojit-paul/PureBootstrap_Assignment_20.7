@@ -1,0 +1,47 @@
+img{
+    width: 20px;
+    height: 30px;
+}
+section{
+    background-color: aqua;
+    height: 700px;
+}
+.fa-child{
+    color: orange;
+    size: 30px;
+}
+.fa-desktop{
+    color: yellow;
+    
+   
+}
+.fa-cogs{
+    color: yellow;
+    
+    align-content: center;
+
+}
+img{
+    
+    margin-top: 3px;
+   
+    height: 200px;
+    width: 200px;
+    align-items: baseline;
+}
+.teams{
+    background-color: gray;
+    height: 600px;
+}
+.fa-facebook-square{
+    color: royalblue;
+}
+.fa-google-plus{
+    color: red;
+}
+.fa-twitter{
+    color: royalblue;
+}
+.fa-youtube{
+    color: red;
+}
